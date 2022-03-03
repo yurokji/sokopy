@@ -1,2 +1,2 @@
 # sokopy
-consol based sokoban ported in Python
+console based sokoban ported in Python
